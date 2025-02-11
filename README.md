@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Software Engineer
 -------------------
 
-A Software Engineer👨‍💻🧑🏽‍🔧 @ MSoft GH LTD | Based in Accra, Ghana 🌍 👨‍💻 Crafting digital solutions with a touch of magic! ✨ . 🌐 Web Dev | 💻 Desktop Apps | 📱 Android 🔍 Solving problems one line of code at a time. 💡 🌟 Passionate about clean code, elegant designs, and user-friendly experiences. 🎯 Let’s build something amazing together! 🤝
+A Software Engineer👨‍💻🧑🏽‍🔧 Based in Accra, Ghana 🌍 👨‍💻 Crafting digital solutions with a touch of magic! ✨ . 🌐 Web Dev | 💻 Desktop Apps | 📱 Android 🔍 Solving problems one line of code at a time. 💡 🌟 Passionate about clean code, elegant designs, and user-friendly experiences. 🎯 Let’s build something amazing together! 🤝
 
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [https://alfred-portfolio-site.onrender.com/](http://alfred-portfolio-site.onrender.com/)
