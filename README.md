@@ -9,7 +9,7 @@ A Software Engineer👨‍💻🧑🏽‍🔧 Based in Accra, Ghana 🌍 👨‍
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [https://alfred-portfolio-site.onrender.com/](http://alfred-portfolio-site.onrender.com/)
 * ✉️  You can contact me at [alfredfianyo50@gmail.com](mailto:alfredfianyo50@gmail.com)
-* 🚀  I'm currently working on [Mortgage Application](http://wellcob.com/)
+* 🚀  I'm currently working on [School Management System](http://EduAdminPro.com/)
 * 🧠  I'm learning Java & Laravel
 * 🤝  I'm open to collaborating on any interesting & innovative projects
 
